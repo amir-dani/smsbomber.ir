@@ -1,4 +1,4 @@
-![Screenshot from 2023-11-16 13-47-35](https://github.com/amir-dani/smsbomber.ir/assets/150056352/e716dbd7-f6d5-4a83-95be-a8cf37048527)
+![Uploading Screenshot from 2023-11-16 13-47-35.png…]()
 # smsbomber_ir
 
 This SMS Bomber works with Iran number, it is beautiful, it has an attractive environment, you will definitely like it ♥️
