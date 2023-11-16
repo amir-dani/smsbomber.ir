@@ -4,7 +4,7 @@
 This SMS Bomber works with Iran number, it is beautiful, it has an attractive environment, you will definitely like it ♥️
 
 
-{Supported OS 💻}
+<Supported OS 💻>
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
