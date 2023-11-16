@@ -13,6 +13,6 @@ This SMS Bomber works with Iran number, it is beautiful, it has an attractive en
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 
 Install an start The tool
-``
-``
-``
+`https://github.com/amir-dani/smsbomber.ir`
+`cd smsbomber.ir`
+`python3 Bomber.py`
